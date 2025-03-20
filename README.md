@@ -1,6 +1,6 @@
 # PRAVEEN Portfolio
 
-## link of web: https://praveen8006.github.io/praveen/
+## link of web: https://praveen8006.github.io/Praveen-Portfolio/
 
 ## 🚀 Introduction
 Welcome to my Frontend Portfolio! This project showcases my skills, projects, and experience as a frontend developer. Built with modern web technologies, it offers a seamless and responsive user experience.
