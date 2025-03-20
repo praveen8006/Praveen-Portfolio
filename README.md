@@ -20,4 +20,5 @@ Welcome to my Frontend Portfolio! This project showcases my skills, projects, an
 
 
 ## 📸 Preview
-You can check out the live demo here: https://praveen8006.github.io/praveen/
+You can check out the live demo here: https://praveen8006.github.io/Praveen-Portfolio/
+
